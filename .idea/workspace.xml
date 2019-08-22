@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5750b0e2-5751-451a-9555-570337c83476" name="Default Changelist" comment="Added prac weeks, game class and test 2">
-      <change afterPath="$USER_HOME$/Documents/CP2406_2019_BasicJava/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/CP2406_2019_BasicJava/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/CP2406_2019_BasicJava/design/GuessingGameDesign.class.violet.html" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/CP2406_2019_BasicJava/src/week3/Game.java" afterDir="false" />
-      <change afterPath="$USER_HOME$/Documents/CP2406_2019_BasicJava/src/week3/GameTest.java" afterDir="false" />
+    <list default="true" id="5750b0e2-5751-451a-9555-570337c83476" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Documents/CP2406_2019_BasicJava" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Plqyp78ISuntG2k8khDn2U1SNC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -37,8 +33,11 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/CP2406_2019_BasicJava" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.capture" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -63,7 +62,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.GameTest.checkPlayCount">
+  <component name="RunManager" selected="JUnit.GameTest">
     <configuration name="GameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CP2406_Prac1" />
       <extension name="coverage">
@@ -113,9 +112,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.GameTest" />
         <item itemvalue="JUnit.GameTest.checkPlayCount" />
         <item itemvalue="JUnit.GameTest.checkSecret" />
-        <item itemvalue="JUnit.GameTest" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +128,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566459287565</updated>
-      <workItem from="1566459288663" duration="3782000" />
+      <workItem from="1566459288663" duration="4308000" />
     </task>
     <task id="LOCAL-00001" summary="Ammended .gitignore">
       <created>1566459365694</created>
@@ -145,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566464662172</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added prac weeks, game class and test 2">
+      <created>1566464781847</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1566464781847</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

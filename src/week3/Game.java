@@ -7,8 +7,11 @@ public class Game {
     int wins;
     int count;
     private Random random = new Random();
-    int secret = random.nextInt(10) + 1; // secret assigned random value 1-10
+    int secret;
 
+    public Game(int min, int max) {
+        secret = min + random.nextInt(max - min + 1);
+    }
     void makeGuess(int value) {
         this.count++;
         if (value == this.secret) {

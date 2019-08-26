@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5750b0e2-5751-451a-9555-570337c83476" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week4/Lease.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week4/LeaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week4/Sandwich.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week4/SandwichTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week4/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week4/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/Billing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/BillingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/FitnessTracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/FitnessTrackerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406_Prac1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406_Prac1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week3/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week3/Game.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,8 +72,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LeaseTest.testMethod">
-    <configuration name="LeaseTest.testMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.FitnessTrackerTest">
+    <configuration name="FitnessTracker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week4.FitnessTracker" />
       <module name="CP2406_Prac1" />
       <extension name="coverage">
         <pattern>
@@ -85,15 +82,11 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="week4" />
-      <option name="MAIN_CLASS_NAME" value="week4.LeaseTest" />
-      <option name="METHOD_NAME" value="testMethod" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SandwichTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BillingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CP2406_Prac1" />
       <extension name="coverage">
         <pattern>
@@ -102,13 +95,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="week4" />
-      <option name="MAIN_CLASS_NAME" value="week4.SandwichTest" />
+      <option name="MAIN_CLASS_NAME" value="week4.BillingTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SandwichTest.makeSandwich" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BillingTest.computeBill" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CP2406_Prac1" />
       <extension name="coverage">
         <pattern>
@@ -117,14 +110,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="week4" />
-      <option name="MAIN_CLASS_NAME" value="week4.SandwichTest" />
-      <option name="METHOD_NAME" value="makeSandwich" />
+      <option name="MAIN_CLASS_NAME" value="week4.BillingTest" />
+      <option name="METHOD_NAME" value="computeBill" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FitnessTrackerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CP2406_Prac1" />
       <extension name="coverage">
         <pattern>
@@ -133,13 +126,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="week4" />
-      <option name="MAIN_CLASS_NAME" value="week4.StudentTest" />
+      <option name="MAIN_CLASS_NAME" value="week4.FitnessTrackerTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTest.basicTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FitnessTrackerTest.defaultConstructor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CP2406_Prac1" />
       <extension name="coverage">
         <pattern>
@@ -148,8 +141,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="week4" />
-      <option name="MAIN_CLASS_NAME" value="week4.StudentTest" />
-      <option name="METHOD_NAME" value="basicTest" />
+      <option name="MAIN_CLASS_NAME" value="week4.FitnessTrackerTest" />
+      <option name="METHOD_NAME" value="defaultConstructor" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -157,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LeaseTest.testMethod" />
-        <item itemvalue="JUnit.StudentTest.basicTest" />
-        <item itemvalue="JUnit.StudentTest" />
-        <item itemvalue="JUnit.SandwichTest.makeSandwich" />
-        <item itemvalue="JUnit.SandwichTest" />
+        <item itemvalue="JUnit.FitnessTrackerTest" />
+        <item itemvalue="JUnit.FitnessTrackerTest.defaultConstructor" />
+        <item itemvalue="Application.FitnessTracker" />
+        <item itemvalue="JUnit.BillingTest.computeBill" />
+        <item itemvalue="JUnit.BillingTest" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +170,7 @@
       <updated>1566459287565</updated>
       <workItem from="1566459288663" duration="4308000" />
       <workItem from="1566465457569" duration="4542000" />
-      <workItem from="1566801787750" duration="4442000" />
+      <workItem from="1566801787750" duration="7328000" />
     </task>
     <task id="LOCAL-00001" summary="Ammended .gitignore">
       <created>1566459365694</created>
@@ -214,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566465759280</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add prac 3, change game prac 2">
+      <created>1566806540141</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1566806540141</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,7 +249,8 @@
     <MESSAGE value="Added prac weeks, game class and test 3" />
     <MESSAGE value="Added prac weeks, game class and test 4" />
     <MESSAGE value="Added prac weeks, game class and test 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added prac weeks, game class and test 5" />
+    <MESSAGE value="Add prac 3, change game prac 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add prac 3, change game prac 2" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

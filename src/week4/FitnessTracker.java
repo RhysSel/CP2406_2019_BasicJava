@@ -1,7 +1,5 @@
 package week4;
 
-import java.util.Scanner;
-
 public class FitnessTracker {
     private String activity;
     private int participationTime; // minutes
@@ -13,21 +11,11 @@ public class FitnessTracker {
         date = "1/1/2019";
     }
 
-    public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
-        System.out.print("Enter Activity : ");
-        String activity = input.nextLine();
-        System.out.println(activity);
+    public FitnessTracker(String activity, int participationTime, String date) {
+        this.activity = activity;
+        this.participationTime = participationTime;
+        this.date = date;
 
-        Scanner input2 = new Scanner(System.in);
-        System.out.print("Enter Participation Time : ");
-        int participationTime = input2.nextInt();
-        System.out.println(participationTime);
-
-        Scanner input3 = new Scanner(System.in);
-        System.out.print("Enter the Date in DD/MM/YYYY : ");
-        String date = input3.nextLine();
-        System.out.println(date);
 
     }
 

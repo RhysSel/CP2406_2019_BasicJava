@@ -14,10 +14,12 @@ class FitnessTrackerTest {
         assertEquals(Default.getDate(), "1/1/2019");
     }
 
-    public void initialValueConstructor() {
-        FitnessTracker Input = new FitnessTracker();
-        assertEquals(Input.getActivity(), "skipping");
-        assertEquals(Input.getParticipationTime(), 10);
-        assertEquals(Input.getDate(), "2/2/2019");
+    @Test
+    public void testInput() {
+
+        FitnessTracker initial = new FitnessTracker("skipping", 10, "2/2/2019");
+        assertEquals(initial.getActivity(), "skipping");
+        assertEquals(initial.getParticipationTime(), 10);
+        assertEquals(initial.getDate(), "2/2/2019");
     }
 }

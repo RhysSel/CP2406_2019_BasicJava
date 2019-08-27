@@ -6,6 +6,13 @@ public class Lease {
     private int rent; // monthly rent $$
     private int leaseLength; // in years
 
+    public Lease(String tenantName, int apartmentNumber, int rent, int leaseLength) {
+        this.tenantName = tenantName;
+        this.apartmentNumber = apartmentNumber;
+        this.rent = rent;
+        this.leaseLength = leaseLength;
+    }
+
     public Lease() {
         tenantName = "George";
         apartmentNumber = 2;

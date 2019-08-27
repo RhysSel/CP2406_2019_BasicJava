@@ -8,7 +8,7 @@ class LeaseTest {
 
     @Test
     void testMethod() {
-        Lease lease = new Lease();
+        Lease lease = new Lease("");
 
         assertEquals("George", lease.getTenantName());
         assertEquals(2, lease.getApartmentNumber());

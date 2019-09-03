@@ -2,25 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5750b0e2-5751-451a-9555-570337c83476" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week5/AscendingAndDescending.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week5/CellPhoneService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week5/CompareLoop3times.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week5/CountByAnything.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week5/CountByThrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week5/EvenEntryJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week5/EvenOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week5/debugging/FixDebugSix1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week5/debugging/FixDebugSix2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week5/debugging/FixDebugSix3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week5/debugging/FixDebugSix4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week5/DiagonalOs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week5/Factorials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week5/debugging/FixDebug1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406_Prac1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406_Prac1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CP2406_Prac1/week2/DogTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CP2406_Prac1/week3/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CP2406_Prac1/week3/Game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CP2406_Prac1/week3/GameTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week2/DogTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week3/GameTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week4/LeaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week5/CompareLoop3times.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week5/CountByAnything.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week5/CountByAnything.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week5/debugging/FixDebugSix1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week5/debugging/FixDebugSix2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week5/debugging/FixDebugSix2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week5/debugging/FixDebugSix3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week5/debugging/FixDebugSix3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week5/debugging/FixDebugSix4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week5/debugging/FixDebugSix4.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +77,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CellPhoneService">
+  <component name="RunManager" selected="Application.FixDebugSix2">
     <configuration name="AscendingAndDescending" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week5.AscendingAndDescending" />
       <module name="CP2406_Prac1" />
@@ -113,6 +104,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DiagonalOs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week5.DiagonalOs" />
+      <module name="CP2406_Prac1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week5.EvenOdd" />
       <module name="CP2406_Prac1" />
@@ -126,44 +130,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FitnessTrackerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FixDebugSix2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week5.debugging.FixDebugSix2" />
       <module name="CP2406_Prac1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week4.*" />
+          <option name="PATTERN" value="week5.debugging.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="week4" />
-      <option name="MAIN_CLASS_NAME" value="week4.FitnessTrackerTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FitnessTrackerTest.testInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CP2406_Prac1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="week4" />
-      <option name="MAIN_CLASS_NAME" value="week4.FitnessTrackerTest" />
-      <option name="METHOD_NAME" value="testInput" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FixDebugSix2" />
+        <item itemvalue="Application.DiagonalOs" />
         <item itemvalue="Application.CellPhoneService" />
         <item itemvalue="Application.AscendingAndDescending" />
         <item itemvalue="Application.EvenOdd" />
-        <item itemvalue="JUnit.FitnessTrackerTest.testInput" />
-        <item itemvalue="JUnit.FitnessTrackerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -181,6 +167,7 @@
       <workItem from="1566465457569" duration="4542000" />
       <workItem from="1566801787750" duration="7328000" />
       <workItem from="1566875222902" duration="2655000" />
+      <workItem from="1567485440041" duration="1424000" />
     </task>
     <task id="LOCAL-00001" summary="Ammended .gitignore">
       <created>1566459365694</created>

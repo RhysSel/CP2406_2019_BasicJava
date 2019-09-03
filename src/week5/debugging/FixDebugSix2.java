@@ -1,7 +1,7 @@
 package week5.debugging;
 
 public class FixDebugSix2 {
-    public static void main(String[] args) {
+    public static void main(String args[]) {
         char letter;
         int a;
         final int MIN = 65;
@@ -11,10 +11,10 @@ public class FixDebugSix2 {
         for (a = MIN; a <= MAX; a++) {
             letter = (char) a;
             System.out.print("  " + letter);
-            if ((a == STOPLINE1) || (a == STOPLINE2))
-                System.out.println();
         }
+        if ((a == STOPLINE1) || (a == STOPLINE2))
+            System.out.println();
         System.out.println("\nEnd of application");
-
     }
 }
+

@@ -10,9 +10,9 @@ public class FixDebug1 {
         final int DAYS = 30;
         double money = 0.01;
         int day = 1;
-        while (day < DAYS) {
+        for (int i = 0; i < 30; i++) {
             money = 2 * money;
-            System.out.println("After day " + day + " you have " + money);
+            System.out.println("After day " + i + " you have " + money);
         }
     }
 }

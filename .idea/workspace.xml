@@ -2,16 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5750b0e2-5751-451a-9555-570337c83476" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week5/DiagonalOs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week5/Factorials.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week5/debugging/FixDebug1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/LeaseTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week5/CompareLoop3times.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406_Prac1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406_Prac1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week4/Lease.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week4/Lease.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/week5/CountByAnything.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week5/CountByAnything.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week5/debugging/FixDebugSix1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week5/CountByThrees.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week5/DiagonalOs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week5/DiagonalOs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week5/EvenEntryJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week5/EvenOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week5/EvenOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week5/Factorials.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week5/Factorials.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week5/debugging/FixDebug1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week5/debugging/FixDebug1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/week5/debugging/FixDebugSix2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week5/debugging/FixDebugSix2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week5/debugging/FixDebugSix3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week5/debugging/FixDebugSix3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week5/debugging/FixDebugSix4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week5/debugging/FixDebugSix4.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -77,9 +79,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FixDebugSix2">
-    <configuration name="AscendingAndDescending" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week5.AscendingAndDescending" />
+  <component name="RunManager" selected="Application.Factorials">
+    <configuration name="CellPhoneService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week5.CellPhoneService" />
       <module name="CP2406_Prac1" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CellPhoneService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week5.CellPhoneService" />
+    <configuration name="CountByAnything" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week5.CountByAnything" />
       <module name="CP2406_Prac1" />
       <extension name="coverage">
         <pattern>
@@ -130,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FixDebugSix2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week5.debugging.FixDebugSix2" />
+    <configuration name="Factorials" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week5.Factorials" />
       <module name="CP2406_Prac1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week5.debugging.*" />
+          <option name="PATTERN" value="week5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FixDebugSix2" />
-        <item itemvalue="Application.DiagonalOs" />
-        <item itemvalue="Application.CellPhoneService" />
-        <item itemvalue="Application.AscendingAndDescending" />
+        <item itemvalue="Application.Factorials" />
         <item itemvalue="Application.EvenOdd" />
+        <item itemvalue="Application.DiagonalOs" />
+        <item itemvalue="Application.CountByAnything" />
+        <item itemvalue="Application.CellPhoneService" />
       </list>
     </recent_temporary>
   </component>
@@ -168,6 +170,7 @@
       <workItem from="1566801787750" duration="7328000" />
       <workItem from="1566875222902" duration="2655000" />
       <workItem from="1567485440041" duration="1424000" />
+      <workItem from="1567491830425" duration="1651000" />
     </task>
     <task id="LOCAL-00001" summary="Ammended .gitignore">
       <created>1566459365694</created>

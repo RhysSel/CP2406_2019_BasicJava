@@ -10,7 +10,7 @@ public class DiagonalOs {
             for (a = 0; a < spaces; ++a)
                 System.out.print(spaceCharachter);
             System.out.println(oCharacter);
-            spaces = spaces + 1;
+            spaces++;
         }
     }
 }

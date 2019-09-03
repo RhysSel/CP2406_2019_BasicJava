@@ -6,8 +6,8 @@ public class EvenOdd {
     public static void main(String[] args) {
         System.out.println("Enter an integer: ");
         int number;
-        Scanner Input = new Scanner(System.in);
-        number = Input.nextInt();
+        Scanner input = new Scanner(System.in);
+        number = input.nextInt();
         if (isEven(number))
             System.out.println("The number " + number + " is even");
 

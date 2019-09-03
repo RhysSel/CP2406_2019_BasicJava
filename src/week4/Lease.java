@@ -56,9 +56,10 @@ public class Lease {
         this.rent = rent;
     }
 
-    public void addPetFee() {
+    public int addPetFee() {
         rent = rent + 10;// monthly $10 fee
         explainPetPolicy();
+        return rent;
     }
 }
 

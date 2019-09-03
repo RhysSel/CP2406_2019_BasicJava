@@ -2,12 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5750b0e2-5751-451a-9555-570337c83476" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/week5/AscendingAndDescending.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week5/CellPhoneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week5/CompareLoop3times.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week5/CountByAnything.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week5/CountByThrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week5/EvenEntryJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week5/EvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week5/debugging/FixDebugSix1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week5/debugging/FixDebugSix2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week5/debugging/FixDebugSix3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week5/debugging/FixDebugSix4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CP2406_Prac1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406_Prac1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week4/FitnessTracker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week4/FitnessTracker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week4/FitnessTrackerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week4/FitnessTrackerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week4/Lease.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week4/Lease.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week4/LeaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week4/LeaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CP2406_Prac1/week2/DogTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CP2406_Prac1/week3/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CP2406_Prac1/week3/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CP2406_Prac1/week3/GameTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week2/DogTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week3/GameTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week4/LeaseTest.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +31,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -44,7 +57,7 @@
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.capture" />
@@ -73,13 +86,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FitnessTrackerTest.testInput">
-    <configuration name="FitnessTracker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week4.FitnessTracker" />
+  <component name="RunManager" selected="Application.CellPhoneService">
+    <configuration name="AscendingAndDescending" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week5.AscendingAndDescending" />
       <module name="CP2406_Prac1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week4.*" />
+          <option name="PATTERN" value="week5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,18 +100,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BillingTest.computeBill" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CellPhoneService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week5.CellPhoneService" />
       <module name="CP2406_Prac1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week4.*" />
+          <option name="PATTERN" value="week5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="week4" />
-      <option name="MAIN_CLASS_NAME" value="week4.BillingTest" />
-      <option name="METHOD_NAME" value="computeBill" />
-      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week5.EvenOdd" />
+      <module name="CP2406_Prac1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -114,22 +137,6 @@
       <option name="PACKAGE_NAME" value="week4" />
       <option name="MAIN_CLASS_NAME" value="week4.FitnessTrackerTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FitnessTrackerTest.defaultConstructor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CP2406_Prac1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="week4" />
-      <option name="MAIN_CLASS_NAME" value="week4.FitnessTrackerTest" />
-      <option name="METHOD_NAME" value="defaultConstructor" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -152,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CellPhoneService" />
+        <item itemvalue="Application.AscendingAndDescending" />
+        <item itemvalue="Application.EvenOdd" />
         <item itemvalue="JUnit.FitnessTrackerTest.testInput" />
         <item itemvalue="JUnit.FitnessTrackerTest" />
-        <item itemvalue="JUnit.FitnessTrackerTest.defaultConstructor" />
-        <item itemvalue="Application.FitnessTracker" />
-        <item itemvalue="JUnit.BillingTest.computeBill" />
       </list>
     </recent_temporary>
   </component>

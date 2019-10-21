@@ -1,23 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5750b0e2-5751-451a-9555-570337c83476" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week6/ArrayMethodDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week6/BabyNameComparison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week6/CountMovieSpaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week6/DistanceFromAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week6/InputCharacterInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week6/TwelveInts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week6/debugging7/FixDebugSeven1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week6/debugging7/FixDebugSeven2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week6/debugging7/FixDebugSeven3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week6/debugging7/FixDebugSeven4.java" afterDir="false" />
+    <list default="true" id="5750b0e2-5751-451a-9555-570337c83476" name="Default Changelist" comment="Add week 7 prac">
+      <change afterPath="$PROJECT_DIR$/src/week12/DebugSixteen/FixDebugSixteen1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week12/DebugSixteen/FixDebugSixteen2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week12/JChangeSizeAndColourPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week12/JChangeSizeAndColourPanel2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week12/JFontSizesPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week12/JNestedBoxesPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week12/JUpsideDownPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week12/d.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/BaseballGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/Candle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/Couplet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/DemoCandles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/DemoHSBaseballGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/DemoHorses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/DemoHorsesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/DemoItemsAndPets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/DemoLLBaseballGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/DemoPoems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/DemoSugarSmash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/Haiku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/HighSchoolBaseballGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/ItemSold.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/Limerick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/LittleLeagueBaseballGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/PetSold.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/Poem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/PremiumSugarSmashPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/RaceHorse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/ScentedCandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/SugarSmashPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/debug10/FixDebugBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/debug10/FixDebugCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/debug10/FixDebugCustomerMakingPurchase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/debug10/FixDebugExtendedVacation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/debug10/FixDebugMusical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/debug10/FixDebugPhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/debug10/FixDebugPlay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/debug10/FixDebugTen1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/debug10/FixDebugTen2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/debug10/FixDebugTen3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/debug10/FixDebugTen4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week7/debug10/FixDebugVacation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week4/BillingTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week4/FitnessTrackerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week4/LeaseTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week4/SandwichTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week4/StudentTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CP2406_Prac1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406_Prac1.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +90,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="week7" />
       <recent name="week4" />
       <recent name="week3" />
     </key>
@@ -68,6 +98,7 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jc321565\IdeaProjects\CP2406_2019_BasicJava\src\week7\debug10" />
       <recent name="C:\Users\jc321565\Documents" />
     </key>
   </component>
@@ -83,13 +114,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TwelveInts">
-    <configuration name="CountByAnything" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week5.CountByAnything" />
+  <component name="RunManager" selected="Application.FixDebugSixteen2">
+    <configuration name="FixDebugSixteen2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week12.DebugSixteen.FixDebugSixteen2" />
       <module name="CP2406_Prac1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week5.*" />
+          <option name="PATTERN" value="week12.DebugSixteen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DiagonalOs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week5.DiagonalOs" />
+    <configuration name="JChangeSizeAndColourPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week12.JChangeSizeAndColourPanel" />
       <module name="CP2406_Prac1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week5.*" />
+          <option name="PATTERN" value="week12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week5.EvenOdd" />
+    <configuration name="JChangeSizeAndColourPanel2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week12.JChangeSizeAndColourPanel2" />
       <module name="CP2406_Prac1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week5.*" />
+          <option name="PATTERN" value="week12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Factorials" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week5.Factorials" />
+    <configuration name="JNestedBoxesPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week12.JNestedBoxesPanel" />
       <module name="CP2406_Prac1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week5.*" />
+          <option name="PATTERN" value="week12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwelveInts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week6.TwelveInts" />
+    <configuration name="JUpsideDownPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week12.JUpsideDownPanel" />
       <module name="CP2406_Prac1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week6.*" />
+          <option name="PATTERN" value="week12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TwelveInts" />
-        <item itemvalue="Application.Factorials" />
-        <item itemvalue="Application.EvenOdd" />
-        <item itemvalue="Application.DiagonalOs" />
-        <item itemvalue="Application.CountByAnything" />
+        <item itemvalue="Application.FixDebugSixteen2" />
+        <item itemvalue="Application.JNestedBoxesPanel" />
+        <item itemvalue="Application.JUpsideDownPanel" />
+        <item itemvalue="Application.JChangeSizeAndColourPanel2" />
+        <item itemvalue="Application.JChangeSizeAndColourPanel" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +206,7 @@
       <workItem from="1566875222902" duration="2655000" />
       <workItem from="1567485440041" duration="1424000" />
       <workItem from="1567491830425" duration="1651000" />
-      <workItem from="1571675263604" duration="5529000" />
+      <workItem from="1571675263604" duration="15056000" />
     </task>
     <task id="LOCAL-00001" summary="Ammended .gitignore">
       <created>1566459365694</created>
@@ -219,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566806540141</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add week 6 prac">
+      <created>1571682578753</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1571682578753</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,7 +294,8 @@
     <MESSAGE value="Added prac weeks, game class and test 5" />
     <MESSAGE value="Add prac 3, change game prac 2" />
     <MESSAGE value="Add week 6 prac" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add week 6 prac" />
+    <MESSAGE value="Add week 7 prac" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add week 7 prac" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

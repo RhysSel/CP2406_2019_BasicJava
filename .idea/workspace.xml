@@ -2,18 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5750b0e2-5751-451a-9555-570337c83476" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week4/LeaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/ArrayMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/BabyNameComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/CountMovieSpaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/DistanceFromAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/InputCharacterInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/TwelveInts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/debugging7/FixDebugSeven1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/debugging7/FixDebugSeven2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/debugging7/FixDebugSeven3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week6/debugging7/FixDebugSeven4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CP2406_Prac1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CP2406_Prac1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week4/Lease.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week4/Lease.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week5/CountByAnything.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week5/CountByAnything.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week5/CountByThrees.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week5/DiagonalOs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week5/DiagonalOs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week5/EvenEntryJava.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week5/EvenOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week5/EvenOdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week5/Factorials.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week5/Factorials.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week5/debugging/FixDebug1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week5/debugging/FixDebug1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week5/debugging/FixDebugSix2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week5/debugging/FixDebugSix2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week4/BillingTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week4/FitnessTrackerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week4/LeaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week4/SandwichTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week4/StudentTest.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +28,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -79,20 +83,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Factorials">
-    <configuration name="CellPhoneService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week5.CellPhoneService" />
-      <module name="CP2406_Prac1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TwelveInts">
     <configuration name="CountByAnything" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week5.CountByAnything" />
       <module name="CP2406_Prac1" />
@@ -145,13 +136,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TwelveInts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week6.TwelveInts" />
+      <module name="CP2406_Prac1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwelveInts" />
         <item itemvalue="Application.Factorials" />
         <item itemvalue="Application.EvenOdd" />
         <item itemvalue="Application.DiagonalOs" />
         <item itemvalue="Application.CountByAnything" />
-        <item itemvalue="Application.CellPhoneService" />
       </list>
     </recent_temporary>
   </component>
@@ -171,6 +175,7 @@
       <workItem from="1566875222902" duration="2655000" />
       <workItem from="1567485440041" duration="1424000" />
       <workItem from="1567491830425" duration="1651000" />
+      <workItem from="1571675263604" duration="5529000" />
     </task>
     <task id="LOCAL-00001" summary="Ammended .gitignore">
       <created>1566459365694</created>
@@ -250,7 +255,8 @@
     <MESSAGE value="Added prac weeks, game class and test 4" />
     <MESSAGE value="Added prac weeks, game class and test 5" />
     <MESSAGE value="Add prac 3, change game prac 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add prac 3, change game prac 2" />
+    <MESSAGE value="Add week 6 prac" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add week 6 prac" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

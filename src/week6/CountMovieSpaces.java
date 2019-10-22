@@ -2,12 +2,12 @@ package week6;
 
 public class CountMovieSpaces {
     public static void main(String[] args) {
-        String moviequote;
-        moviequote = "Programming 3 is so good.";
+        String movieQuote;
+        movieQuote = "Programming 3 is so good.";
         int numSpaces = 0;
-        int quoteLength = moviequote.length();
+        int quoteLength = movieQuote.length();
         for (int i = 0; i < quoteLength; i++) {
-            char character = moviequote.charAt(i);
+            char character = movieQuote.charAt(i);
             if (character == ' ') {
                 numSpaces++;
 
